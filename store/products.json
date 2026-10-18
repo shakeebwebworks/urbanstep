@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Aero Runner",
+    "image": "images/product-1.webp",
+    "category": "sneakers",
+    "price": 89.99,
+    "color": "#d6361a",
+    "featured": true,
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "description": "Lightweight everyday runner with a breathable mesh upper and a cushioned foam sole built for city miles."
+  },
+  {
+    "id": 2,
+    "name": "Street Classic Low",
+    "category": "sneakers",
+    "price": 74.99,
+    "color": "#1f2937",
+    "featured": false,
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "description": "A clean, low-profile leather sneaker that goes with everything from jeans to tailored trousers.",
+    "image": "images/product-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cloud Knit",
+    "category": "sneakers",
+    "price": 109.0,
+    "color": "#0ea5e9",
+    "featured": true,
+    "sizes": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "description": "Sock-like stretch knit upper with a springy midsole. Feels like walking on a cloud, all day long.",
+    "image": "images/product-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Retro High Top",
+    "category": "sneakers",
+    "price": 119.5,
+    "color": "#f59e0b",
+    "featured": true,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "description": "Throwback basketball-inspired silhouette with a padded collar, bold panels and a grippy rubber outsole.",
+    "image": "images/product-4.png"
+  },
+  {
+    "id": 5,
+    "name": "Everyday Hoodie",
+    "category": "hoodies",
+    "price": 59.0,
+    "color": "#6b7280",
+    "featured": true,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Soft brushed-cotton hoodie with a roomy hood and kangaroo pocket. Your new go-to layer.",
+    "image": "images/product-5.webp"
+  },
+  {
+    "id": 6,
+    "name": "Oversized Fleece Hoodie",
+    "category": "hoodies",
+    "price": 69.99,
+    "color": "#7c3aed",
+    "featured": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Heavyweight fleece with a relaxed, oversized fit and dropped shoulders for maximum comfort.",
+    "image": "images/product-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Zip-Up Hoodie",
+    "category": "hoodies",
+    "price": 64.5,
+    "color": "#059669",
+    "featured": false,
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Full-zip hoodie with a metal zipper, ribbed cuffs and a smooth cotton-blend lining.",
+    "image": "images/product-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Urban Bomber Jacket",
+    "category": "jackets",
+    "price": 129.0,
+    "color": "#111827",
+    "featured": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Classic bomber with a water-resistant shell, ribbed trims and two zip pockets. Street style essential.",
+    "image": "images/product-8.png"
+  },
+  {
+    "id": 9,
+    "name": "Windbreaker Shell",
+    "category": "jackets",
+    "price": 94.0,
+    "color": "#2563eb",
+    "featured": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "description": "Ultralight packable windbreaker that blocks the breeze and folds into its own pocket.",
+    "image": "images/product-9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Classic Cap",
+    "category": "accessories",
+    "price": 24.99,
+    "color": "#dc2626",
+    "featured": false,
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Six-panel cotton cap with an embroidered logo and an adjustable strap for a perfect fit.",
+    "image": "images/product-10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "City Backpack",
+    "category": "accessories",
+    "price": 54.0,
+    "color": "#374151",
+    "featured": true,
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Water-resistant 20L backpack with a padded laptop sleeve and hidden back pocket for your essentials.",
+    "image": "images/product-11.webp"
+  },
+  {
+    "id": 12,
+    "name": "Crew Socks 3-Pack",
+    "category": "accessories",
+    "price": 14.99,
+    "color": "#e5a00d",
+    "featured": false,
+    "sizes": [
+      "One Size"
+    ],
+    "description": "Three pairs of cushioned cotton-blend crew socks with arch support and a reinforced heel and toe.",
+    "image": "images/product-12.jpg"
+  }
+]
